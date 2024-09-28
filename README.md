@@ -1,6 +1,5 @@
 # 🍕 Food Delivery App UI - Figma Project
 
-![Project Banner](link-to-banner-image) 
 ## 📋 Project Overview
 
 This project is a conceptual design for a **Food Delivery Application** created using Figma. The goal was to design an intuitive and engaging user interface (UI) that provides a seamless user experience (UX) for browsing and ordering food.
@@ -38,8 +37,10 @@ The project is organized into the following key screens:
 
 You can view the interactive prototype and Wireframe on Figma using the following link:
 
-[Soveryhub - Figma Prototype](https://www.figma.com/proto/ylHchGTI6QeBNrvpquGF6h/Soveryhub-Food-app-UI?node-id=1-2&node-type=canvas&t=8Ioj3P7e3Txuj8of-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2) 
-[Soveryhub - Figma Wireframe](https://www.figma.com/proto/4ofaLRRh5DaoSOd4PsZHET/Wireframe-Food-App?node-id=1-2&starting-point-node-id=1%3A2&t=Psl3qHrGpGC02jSM-1) 
+-[Soveryhub - Figma Prototype](https://www.figma.com/proto/ylHchGTI6QeBNrvpquGF6h/Soveryhub-Food-app-UI?node-id=1-2&node-type=canvas&t=8Ioj3P7e3Txuj8of-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2) 
+
+
+-[Soveryhub - Figma Wireframe](https://www.figma.com/proto/4ofaLRRh5DaoSOd4PsZHET/Wireframe-Food-App?node-id=1-2&starting-point-node-id=1%3A2&t=Psl3qHrGpGC02jSM-1) 
 
 
 ## 🛠️ Tools Used
